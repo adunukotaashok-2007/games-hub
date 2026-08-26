@@ -36,18 +36,3 @@ A multiplayer collection of mini games.
 19. Aim Trainer
 20. Higher or Lower
 
-## Run locally
-
-Install Node.js.
-
-Then:
-
-npm install
-
-Start:
-
-npm start
-
-Open:
-
-http://localhost:3000
